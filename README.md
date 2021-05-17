@@ -4,6 +4,10 @@
 
 Notre modèle est basé sur l'architecture `UNET` et se structure de la façon suivante:
 
+![Architecture UNET](resources/u-net-architecture.png)
+
+Ce qui nous donne l'architecture suivante avec `Tensorflow` et python.
+
 ![Architecture Model](resources/architect_model.png)
 
 ---
